@@ -1,0 +1,64 @@
+{
+  "extName": {
+    "message": "Video Punch In",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "One-click copy video timestamp link, precisely locate to current playback position",
+    "description": "Extension description"
+  },
+  "contextMenuTitle": {
+    "message": "Punch and Copy Link",
+    "description": "Context menu item title"
+  },
+  "loading": {
+    "message": "Detecting...",
+    "description": "Loading state"
+  },
+  "noVideo": {
+    "message": "No video found",
+    "description": "No video on page"
+  },
+  "adPlaying": {
+    "message": "Ad playing",
+    "description": "Ad is playing"
+  },
+  "clickToCopy": {
+    "message": "Click to punch & copy",
+    "description": "Default button text"
+  },
+  "copied": {
+    "message": "Punched & copied!",
+    "description": "Success state"
+  },
+  "copyFailed": {
+    "message": "Punch failed",
+    "description": "Error state"
+  },
+  "punchedAt": {
+    "message": "Punched at $TIME$",
+    "description": "Notification message with timestamp",
+    "placeholders": {
+      "time": {
+        "content": "$1",
+        "example": "2:30"
+      }
+    }
+  },
+  "errorNoTab": {
+    "message": "Cannot get current tab",
+    "description": "Error: no tab"
+  },
+  "errorNoVideo": {
+    "message": "No video found",
+    "description": "Error: no video"
+  },
+  "errorAdPlaying": {
+    "message": "Ad playing, please wait",
+    "description": "Error: ad playing"
+  },
+  "errorCopyFailed": {
+    "message": "Copy failed",
+    "description": "Error: copy failed"
+  }
+}

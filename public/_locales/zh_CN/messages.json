@@ -1,0 +1,64 @@
+{
+  "extName": {
+    "message": "视频打孔器",
+    "description": "Extension name"
+  },
+  "extDescription": {
+    "message": "一键复制带时间戳的视频链接，精准定位到当前播放位置",
+    "description": "Extension description"
+  },
+  "contextMenuTitle": {
+    "message": "立即打孔并复制链接",
+    "description": "Context menu item title"
+  },
+  "loading": {
+    "message": "打孔检测中...",
+    "description": "Loading state"
+  },
+  "noVideo": {
+    "message": "页面无孔可打",
+    "description": "No video on page"
+  },
+  "adPlaying": {
+    "message": "广告播放中",
+    "description": "Ad is playing"
+  },
+  "clickToCopy": {
+    "message": "立即打孔并复制链接",
+    "description": "Default button text"
+  },
+  "copied": {
+    "message": "已打孔并复制!",
+    "description": "Success state"
+  },
+  "copyFailed": {
+    "message": "打孔失败",
+    "description": "Error state"
+  },
+  "punchedAt": {
+    "message": "已打孔 $TIME$",
+    "description": "Notification message with timestamp",
+    "placeholders": {
+      "time": {
+        "content": "$1",
+        "example": "2:30"
+      }
+    }
+  },
+  "errorNoTab": {
+    "message": "无法获取当前标签页",
+    "description": "Error: no tab"
+  },
+  "errorNoVideo": {
+    "message": "未找到视频",
+    "description": "Error: no video"
+  },
+  "errorAdPlaying": {
+    "message": "广告播放中，请稍后",
+    "description": "Error: ad playing"
+  },
+  "errorCopyFailed": {
+    "message": "复制失败",
+    "description": "Error: copy failed"
+  }
+}
