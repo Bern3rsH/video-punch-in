@@ -2,7 +2,7 @@
   "name": "video-punch-in",
   "description": "一键复制带时间戳的视频链接，精准定位到当前播放位置",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "wxt",
