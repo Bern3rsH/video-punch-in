@@ -1,15 +1,93 @@
-<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g clip-path="url(#clip0_305_516)">
-<g clip-path="url(#clip1_305_516)">
-<path d="M49.0229 69.1875C54.1272 69.1875 58.265 65.0497 58.265 59.9454V50.7033H59.9454C65.0497 50.7033 69.1875 46.5655 69.1875 41.4612C69.1875 36.357 65.0497 32.2191 59.9454 32.2191H58.265V22.9771C58.265 17.8728 54.1272 13.735 49.0229 13.735H39.7809V12.0546C39.7809 6.95032 35.643 2.8125 30.5388 2.8125C25.4345 2.8125 21.2967 6.95032 21.2967 12.0546V13.735H12.0546C6.95032 13.735 2.8125 17.8728 2.8125 22.9771V32.2191H4.49288C9.59714 32.2191 13.735 36.357 13.735 41.4612C13.735 46.5655 9.59714 50.7033 4.49288 50.7033H2.8125V69.1875H21.2967V67.5071C21.2967 62.4029 25.4345 58.265 30.5388 58.265C35.643 58.265 39.7809 62.4029 39.7809 67.5071V69.1875H49.0229Z" stroke="#67D55E" stroke-width="5.625"/>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_305_516">
-<rect width="72" height="72" fill="white"/>
-</clipPath>
-<clipPath id="clip1_305_516">
-<rect width="72" height="72" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="437px" height="437px" viewBox="0 0 437 437" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group@2x</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="104" height="375"></rect>
+        <rect id="path-3" x="5.68434189e-14" y="0" width="104" height="375"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <rect id="Rectangle" x="0" y="0" width="437" height="437"></rect>
+            <g transform="translate(0.4667, 29.9193)" id="Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Oval-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-+-Rectangle-2-Mask">
+                <g transform="translate(297.75, 188.3798) rotate(30) translate(-297.75, -188.3798)translate(245.75, 0.8798)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FF6B22" xlink:href="#path-1"></use>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="-1" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="26" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="106" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="52" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="133" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="186" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="79" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="159" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="213" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="239" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="266" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="293" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="320" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="346" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-2)" cx="91" cy="373" r="10"></circle>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="17" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="39" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="61" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="83" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="105" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="127" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="149" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="171" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="194" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="216" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="238" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="260" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="282" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="304" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="326" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="348" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="-5" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-2)" x="7" y="370" width="25" height="10"></rect>
+                </g>
+                <g transform="translate(138.7833, 188.7817) rotate(150) translate(-138.7833, -188.7817)translate(86.7833, 1.2817)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Mask" fill="#FF6B22" xlink:href="#path-3"></use>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="-1" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="26" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="106" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="52" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="133" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="186" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="79" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="159" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="213" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="239" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="266" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="293" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="320" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="346" r="10"></circle>
+                    <circle id="Oval" fill="#000000" mask="url(#mask-4)" cx="91" cy="373" r="10"></circle>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="17" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="39" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="61" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="83" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="105" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="127" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="149" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="171" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="194" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="216" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="238" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="260" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="282" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="304" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="326" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="348" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="-5" width="25" height="10"></rect>
+                    <rect id="Rectangle-2" fill="#000000" mask="url(#mask-4)" x="7" y="370" width="25" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
