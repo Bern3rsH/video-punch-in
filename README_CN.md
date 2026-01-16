@@ -1,7 +1,7 @@
 # 视频打孔器 🎬
 
 <p align="center">
-  <img src="public/icon/icon-128.png" alt="视频打孔器图标" width="128" height="128">
+  <img src="public/icon/128.png" alt="视频打孔器图标" width="128" height="128">
 </p>
 
 <p align="center">

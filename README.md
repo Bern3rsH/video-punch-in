@@ -1,7 +1,7 @@
 # Video Punch In 🎬
 
 <p align="center">
-  <img src="public/icon/icon-128.png" alt="Video Punch In Icon" width="128" height="128">
+  <img src="public/icon/128.png" alt="Video Punch In Icon" width="128" height="128">
 </p>
 
 <p align="center">
